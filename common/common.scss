@@ -1,0 +1,10 @@
+.user-card-metadata-outlet .desc {
+  font-weight: bold;
+}
+
+.user-card-metadata-outlet {
+  padding: 3px 5px;
+  display: flex;
+  border-radius: var(--d-border-radius);
+  align-items: center;
+}
