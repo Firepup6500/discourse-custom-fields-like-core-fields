@@ -1,3 +1,3 @@
-# Discourse Custom Fields Like Core Fields
+# Discourse custom usercard fields like core usercard fields
 
-Re-styles custom fields on user profiles to match core fields as closely as possible
+Re-styles custom fields on usercards to match core fields as closely as possible
