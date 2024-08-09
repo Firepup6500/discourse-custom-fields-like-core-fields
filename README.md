@@ -1,5 +1,3 @@
-# Discourse custom usercard fields like core usercard fields
+# Discourse user card redesign field parity
 
-Re-styles custom fields on usercards to match core fields as closely as possible
-
-This component is made to go with the Usercard redesign experiment, found [here](https://github.com/discourse/experimental-usercard.git).
+Provides parity to the styling of custom fields and core fields on the [redesign experiment](https://github.com/discourse/experimental-usercard.git).
